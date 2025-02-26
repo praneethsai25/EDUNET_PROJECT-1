@@ -1,4 +1,4 @@
-Secure Data Hiding in Image Using Steganography![image](https://github.com/user-attachments/assets/dc805758-5865-4826-a188-cd2a88e936ed)
+![image](https://github.com/user-attachments/assets/dc805758-5865-4826-a188-cd2a88e936ed)
 
 
 ### **Image-Based Text Encryption & Decryption 🔒**
